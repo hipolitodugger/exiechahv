@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eecaifaos.deguffroy.be/sitemap.xml
